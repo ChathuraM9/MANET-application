@@ -1,2 +1,2 @@
-# MANET-application
-Secure Ad-Hoc Communication Application: Design, Development, and Evaluation
+# MANET
+Mobile Ad-hoc Network as a decentralized network for communication
